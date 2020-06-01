@@ -26,7 +26,7 @@ about:
   enable: true
   title: "Who are we?"
   content: '<p class="lead">
-    We are two college engineering students that can help you with your technological needs while not breaking
+    We are two college engineering students that can help you with your technological needs without breaking
     your bank! We prioritize customer satisfaction and understanding above all.
     </p>
     <p class="lead">
@@ -57,7 +57,9 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "We are skilled in tech development and troubleshooting. Through college we have gained
+  experience by completing tech related classes, tasks, and projects. No matter what your vision may be, we will try our best
+  to bring it to life."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -68,17 +70,14 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "System Admin SIGBOTS (Purdue University)"
+      company: "Kunwar Sahni"
+      duration: "2019-2020"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "NESTAI Undergraduate Researcher (Virginia Tech)"
+      company: "Roshen Arun"
+      duration: "2019-2020"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 client_and_work:
