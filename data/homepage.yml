@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | Raditian"
+    title: "Two Tech Lads"
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  title: "We Are Two Tech Lads."
+  subtitle: "For all your home tech needs"
+  description: "We work to improve your house's technological abilities. Everything from networking, security, and entertainment."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -19,43 +19,12 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
-
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
-
-    - icon: "github"
-      URL: "https://github.com/radity"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+    URL: "#contact"
 
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Who are we?"
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
@@ -116,7 +85,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Services"
   enable: true
 
   clients:
