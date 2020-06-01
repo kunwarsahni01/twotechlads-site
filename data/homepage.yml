@@ -26,14 +26,11 @@ about:
   enable: true
   title: "Who are we?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    We are two college engineering students that can help you with your technological needs while not breaking
+    your bank! We prioritize customer satisfaction and understanding above all.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    <b><b> Kunwar Sahni </b></b> studies Computer Science at Purdue University. <br> <b><b>Roshen Arun</b></b> studies Mechanical Engineering at Virginia Tech.
     </p>'
   button:
     icon: "icon-smile-fill"
