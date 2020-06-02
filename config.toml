@@ -40,26 +40,9 @@ theme = "raditian-free-hugo-theme"
   URL = "#contact"
   weight = 4
 
-
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
 [params]
 
-  sections = ["showcase", "about", "experience", "client-and-work", "contact"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
