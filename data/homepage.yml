@@ -83,7 +83,7 @@ client_and_work:
 
   works:
     - title: "Networking"
-      description: "We can help your home have complete WiFi coverage and reach its full network capabilities. Everything from installing acces points to a full network redo let us know and we can help."
+      description: "We can help your home have complete WiFi coverage and reach its full network capabilities. Everything from installing access points to a full network redo let us know and we can help."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
